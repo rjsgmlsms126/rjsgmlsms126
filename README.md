@@ -1,6 +1,10 @@
-<div align=center>
-	## Deep Learning Engineer 
-</div>
+## Deep Learning Engineer
+* SKKU SAIHST BMI LAB
+
+## Interst
+* Medical/Health AI
+* Natural Language Processing
+
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/rjsgmlsms126)](https://github.com/rjsgmlsms126)
